@@ -2,6 +2,8 @@
 
 I’m Jim, a user experience engineer, based in Los Angeles.
 
+![flowers](https://user-images.githubusercontent.com/926616/160258470-653ddb94-f3f9-4d9f-9f33-0311820f43d6.jpeg)
+
 <!--
 **jimthoburn/jimthoburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
