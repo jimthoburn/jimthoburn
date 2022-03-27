@@ -2,7 +2,7 @@
 
 ### Ahoy there 👋
 
-I’m Jim, a user experience engineer, based in Los Angeles.
+I’m Jim.
 
 - 🧰 I’m currently working on developer tools at Render
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/)
