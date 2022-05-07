@@ -6,7 +6,7 @@ I’m Jim.
 
 - 🧰 I’m currently working on developer tools at Render
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/)
-- 📐 Ask me about [CSS grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- 📏 Ask me about [CSS grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - 💬 Pronouns: he/him/his
 
 <!--
